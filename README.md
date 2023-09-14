@@ -9,11 +9,6 @@
             background-repeat: no-repeat;
         }
     </style>
-
-    <head>
-        <title>JackAdventure</title>
-    </head>
-
 <body>
     <h1>tải game</h1>
     <p>Ai có tiền donet cho Hùng 1031012004 MB:</p>
